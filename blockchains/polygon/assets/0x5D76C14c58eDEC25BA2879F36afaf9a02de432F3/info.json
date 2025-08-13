@@ -1,0 +1,14 @@
+{
+    "name": "The Chrono-Cartographers Atlas",
+    "website": "https://blue-glad-crab-759.mypinata.cloud/ipfs/bafkreihrhn2udaagpyfotuvz6cvlrghpzohbucmw4s24pcl6njiu5xrmve",
+    "description": "TCCA is a utility token for temporal mapping and exploration, featuring governance voting, burnable supply, and pausable functionality.",
+    "explorer": "https://polygonscan.com/token/0x5D76C14c58eDEC25BA2879F36afaf9a02de432F3",
+    "type": "POLYGON",
+    "symbol": "TCCA",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x5D76C14c58eDEC25BA2879F36afaf9a02de432F3",
+    "tags": [
+        "defi"
+    ]
+}
