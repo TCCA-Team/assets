@@ -1,0 +1,11 @@
+{
+    "name": "The Chrono-Cartographers Atlas",
+    "website": "https://tcca.dev",
+    "description": "The crypto for global travel.",
+    "explorer": "https://polygonscan.com/token/0x5D76C14c58eDEC25BA2879F36afaf9a02de432F3",
+    "type": "PRC20",
+    "symbol": "MAT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x5D76C14c58eDEC25BA2879F36afaf9a02de432F3"
+}
